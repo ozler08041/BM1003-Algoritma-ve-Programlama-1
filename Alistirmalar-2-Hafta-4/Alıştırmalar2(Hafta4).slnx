@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="Alıştırmalar2(Hafta4)/Alıştırmalar2(Hafta4).csproj" />
+  <Project Path="soru10/soru10.csproj" Id="a832fc98-34ee-4324-9fea-c605202f17e0" />
+  <Project Path="soru11/soru11.csproj" Id="be0b992c-b95d-40c0-ace5-e1d5e1538014" />
+  <Project Path="soru12/soru12.csproj" Id="766f7c4c-f1b2-4874-bd87-aceb49fa6567" />
+  <Project Path="soru13/soru13.csproj" Id="a7bfe38d-daae-4f8c-9b79-74251405d46f" />
+  <Project Path="soru14/soru14.csproj" Id="7f01536c-f31d-4098-ac76-dce536badfdb" />
+  <Project Path="soru15/soru15.csproj" Id="c051a84b-d264-4220-a354-054ee60a0837" />
+  <Project Path="soru16/soru16.csproj" Id="32ea0e73-7c50-4156-ac48-62c5c52a3781" />
+  <Project Path="soru17/soru17.csproj" Id="009cb86b-c977-4f8a-8dec-724c762ed468" />
+  <Project Path="soru2/soru2.csproj" />
+  <Project Path="soru3/soru3.csproj" />
+  <Project Path="soru4/soru4.csproj" />
+  <Project Path="soru5/soru5.csproj" />
+  <Project Path="soru6/soru6.csproj" />
+  <Project Path="soru7/soru7.csproj" />
+  <Project Path="soru8/soru8.csproj" />
+  <Project Path="soru9/soru9.csproj" Id="b3001cf0-7ddf-4bc9-b846-7a0ea301da83" />
+</Solution>
