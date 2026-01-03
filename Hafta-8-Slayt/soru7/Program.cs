@@ -17,7 +17,7 @@ namespace soru7
             {
                 if (indis >= dizi.Length)
                 {
-                    int[] yeniDizi = new int[dizi.Length];
+                    int[] yeniDizi = new int[dizi.Length*2];
 
                     for (int i = 0; i < dizi.Length; i++)
                     {
